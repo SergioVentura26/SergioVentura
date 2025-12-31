@@ -83,18 +83,6 @@
 
 ---
 
-## 📊 GitHub Stats (animados)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Conecta conmigo
 
 <p align="center">
